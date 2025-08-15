@@ -46,8 +46,8 @@ dconf write /org/gnome/desktop/interface/gtk-theme "'Adwaita-dark'"
 # Zsh
 
 ### Plugins:
-- git
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - colored-man-pages
 
 ### Oh-My-Zsh [theme](.oh-my-zsh/custom/themes/gnzh-custom.zsh-theme)
+
